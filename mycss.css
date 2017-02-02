@@ -62,3 +62,9 @@ h1 {
 .glyphicon {
   font-size: 400%;
 }
+.description {
+  text-align: justify;
+  text-justify: newspaper;
+  width: 80%;
+  margin: 0 auto 0 auto;
+}
