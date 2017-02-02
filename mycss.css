@@ -1,0 +1,51 @@
+body {
+  background-color: white;
+  font-family: 'Titillium Web', sans-serif;
+  background-color: rgba(64, 77, 99, 0.1);
+}
+
+code {
+  margin-bottom: 15px;
+}
+
+p {
+  font-family: 'Varela Round', sans-serif;
+}
+
+h1 {
+  font-size: 5em;
+  text-transform: uppercase;
+}
+
+.linebr {
+  border-bottom: 2px solid gray;
+  width: 50%;
+  margin: 15px auto 15px auto;
+}
+.row {
+    text-align: center;
+    padding: 10em 1em 10em 1em;
+}
+
+.toprow {
+  background:
+    linear-gradient(
+    rgba(64, 77, 99, 0.6),
+    rgba(64, 77, 99, 0.6)
+  ),
+  url('clouds.jpg');
+  background-repeat: no-repeat;
+  background-position: center;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+  color: white;
+}
+.mid-row {
+  margin-top: 0px;
+}
+
+.glyphicon {
+  font-size: 400%;
+}
